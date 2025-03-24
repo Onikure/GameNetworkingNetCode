@@ -25,7 +25,7 @@ public class SessionManager : Singleton<SessionManager>
 
     private NetworkManager m_networkManager;
 
-    string sessionName = "TestSession";
+    string sessionName = "Session";
 
     private const string PLAYERNAMEPROPERTYKEY = "playerName";
 
